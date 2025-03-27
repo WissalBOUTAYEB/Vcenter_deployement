@@ -9,6 +9,7 @@
 
 
 📌 Overview
+
 This project documents the use of virtualization with VMware ESXi and the deployment of vCenter for centralized management of virtualized infrastructures.
 
 📜 This project covers:
@@ -32,6 +33,7 @@ Deployment steps and network configuration
 Centralized management of virtualized infrastructures
 
 🔒 Security & Optimization
+
 🛡️ VM isolation to minimize cross-attacks
 
 📊 Resource optimization to prevent CPU/RAM overutilization
